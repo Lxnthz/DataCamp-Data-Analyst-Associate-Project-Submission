@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains my submission for the **DataCamp Associate Data Analyst Certification** exam, completed on **February 19, 2026**. The practical exam took approximately 1-2 hours to complete and focused on testing SQL proficiency for real-world data analysis scenarios.
+This repository contains my submission for the **DataCamp Associate Data Analyst Certification** exam, completed on **February 18, 2026**. The practical exam took approximately 1-2 hours to complete and focused on testing SQL proficiency for real-world data analysis scenarios.
 
 ## Case Study: FoodYum Grocery Store
 
@@ -18,6 +18,8 @@ As food costs rise, FoodYum wants to make sure it keeps stocking products in all
 
 - `solution.ipynb` - Jupyter notebook with SQL queries and validation checks
 - `exported/` - CSV exports of query results for verification
+
+![certificate](./certificate.png)
 
 ---
 
