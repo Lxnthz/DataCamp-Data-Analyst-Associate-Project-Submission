@@ -156,10 +156,6 @@ This repository serves as:
 
 ---
 
-1
-
-## Certifications
-
 All certifications are earned through **DataCamp's industry-recognized professional certification program**, which validates practical skills through timed, real-world case study challenges.
 
 ---
