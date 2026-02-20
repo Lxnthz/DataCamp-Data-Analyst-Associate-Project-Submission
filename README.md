@@ -2,6 +2,12 @@
 
 This repository contains my submissions for **DataCamp Practical Exams** and certification projects. Each folder represents a completed certification with real-world case studies, demonstrating proficiency in data analysis, SQL, and analytical problem-solving.
 
+<div style="display: flex; justify-content: center; align-items: center; height: 150px; gap: 10px;">
+  <img src="./DA601P/badge.png" style="max-width: 100%;">
+  <img src="./SQ501P/badge.png" style="max-width: 100%;">
+  <img src="./DE501P/badge.png" style="max-width: 100%;">
+</div>
+
 ---
 
 ## Certifications
